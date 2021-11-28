@@ -3756,6 +3756,15 @@
 			text-decoration: none;
 		}
 
+        }
+        
+        #banner b {
+             color:white;
+             font-weight:900;
+             !important
+
+                }
+
 		#banner video {
 			-moz-transform: translateX(50%) translateY(50%);
 			-webkit-transform: translateX(50%) translateY(50%);
